@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "pifase:block/pifase_block"
+    }
+  }
+}

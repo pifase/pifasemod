@@ -1,0 +1,78 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Pifase",
+      "type": "mob",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pifase"
+    },
+    {
+      "name": "Octoturt",
+      "type": "mob",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "octoturt"
+    },
+    {
+      "name": "PifaseBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pifase_block"
+    },
+    {
+      "name": "Pifasedimension",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pifasedimension",
+      "metadata": {
+        "ep": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.pifase.pifasedimension": "key",
+      "block.pifase.pifase_block": "Pifase Block",
+      "entity.pifase.octoturt": "Octoturt",
+      "item.pifase.pifase_spawn_egg": "Pifase Spawn Egg",
+      "item.pifase.octoturt_spawn_egg": "Octoturt Spawn Egg",
+      "entity.pifase.pifase": "Pifase"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "pifase",
+    "modName": "Pifase",
+    "version": "1.0.0",
+    "author": "pifase, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.pifase",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

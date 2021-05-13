@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "pifase:block/pifasedimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "pifase:block/pifasedimension_portal_ns"
+    }
+  }
+}
